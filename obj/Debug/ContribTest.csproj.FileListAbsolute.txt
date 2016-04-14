@@ -1,0 +1,12 @@
+C:\Users\jared\Desktop\Tets\ContribTest\bin\Debug\ContribTest.exe.config
+C:\Users\jared\Desktop\Tets\ContribTest\bin\Debug\ContribTest.exe
+C:\Users\jared\Desktop\Tets\ContribTest\bin\Debug\ContribTest.pdb
+C:\Users\jared\Desktop\Tets\ContribTest\obj\Debug\ContribTest.csprojResolveAssemblyReference.cache
+C:\Users\jared\Desktop\Tets\ContribTest\obj\Debug\ContribTest.exe
+C:\Users\jared\Desktop\Tets\ContribTest\obj\Debug\ContribTest.pdb
+C:\Users\jared\Desktop\Contrib.Nuget.Test\bin\Debug\ContribTest.exe.config
+C:\Users\jared\Desktop\Contrib.Nuget.Test\bin\Debug\ContribTest.exe
+C:\Users\jared\Desktop\Contrib.Nuget.Test\bin\Debug\ContribTest.pdb
+C:\Users\jared\Desktop\Contrib.Nuget.Test\obj\Debug\ContribTest.csprojResolveAssemblyReference.cache
+C:\Users\jared\Desktop\Contrib.Nuget.Test\obj\Debug\ContribTest.exe
+C:\Users\jared\Desktop\Contrib.Nuget.Test\obj\Debug\ContribTest.pdb
