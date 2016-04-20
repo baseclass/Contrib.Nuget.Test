@@ -1,0 +1,6 @@
+language: csharp
+solution: ContribTest.sln
+install:
+  - nuget restore ContribTest.sln
+script:
+  - xbuild ContribTest.sln
